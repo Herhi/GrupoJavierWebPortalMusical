@@ -40,6 +40,6 @@
 </table>
 
 <h3> Pautas </h3>
-- El desarrollo del programa se realizará basándose en el uso del PDO.
-- Para loguearse en la web usaremos cookies, en vez de sesiones.
-- Cualquier apreciación, petición o recomendación será recibida y estudiada por el jefe de equipo.
+- El desarrollo del programa se realizará basándose en el uso del PDO. <br>
+- Para loguearse en la web usaremos cookies, en vez de sesiones. <br>
+- Cualquier apreciación, petición o recomendación será recibida y estudiada por el jefe de equipo. <br>
