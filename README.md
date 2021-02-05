@@ -11,37 +11,30 @@
 <table>
 	<tr>
 		<th>Apartado</th>
-		
 		<th>Estado</th>
   	</tr>
 	<tr>
 		<td>1-Pantalla de login</td>
-		
 		<td>No asignado</td>
   	</tr>
   	<tr>
     		<td>2-Compra/Cesta</td>
-	  	
 	  	<td>No asignado</td>
   	</tr>
   	<tr>
     		<td>3-Pasarela de Pago</td>
-	  	
 	  	<td>No asignado</td>
 	</tr>
 	<tr>
 		<td>4-Historico de Facturas</td>
-		
 		<td>No asignado</td>
 	</tr>
 	<tr>
 		<td>5-Consulta de facturas entre fechas</td>
-		
 		<td>No asignado</td>
 	</tr>
 	<tr>
 		<td>6-Ranking de descargas</td>
-		
 		<td>No asignado</td>
 	</tr>
 </table>
