@@ -42,4 +42,5 @@
 <h3> Pautas </h3>
 - El desarrollo del programa se realizará basándose en el uso del PDO. <br>
 - Para loguearse en la web usaremos cookies, en vez de sesiones. <br>
+- Los archivos se irán subiendo a distintos branches nombrado por el día de trabajo, y finalmente, se subirá al main cuando el proyecto sea funcional. <br>
 - Cualquier apreciación, petición o recomendación será recibida y estudiada por el jefe de equipo. <br>
