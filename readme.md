@@ -20,12 +20,12 @@
 		<td>No asignado</td>
   	</tr>
   	<tr>
-    	<td>2-Compra/Cesta</td>
+    		<td>2-Compra/Cesta</td>
 	  	
 	  	<td>No asignado</td>
   	</tr>
   	<tr>
-    	<td>3-Pasarela de Pago</td>
+    		<td>3-Pasarela de Pago</td>
 	  	
 	  	<td>No asignado</td>
 	</tr>
