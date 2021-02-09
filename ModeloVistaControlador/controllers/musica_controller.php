@@ -28,6 +28,6 @@ require_once("views/musica_view.phtml");
   	echo $stmt . "<br>" . $e->getMessage();
 }
 
-$conn = null;
+$conexion = null;
 
 ?>
