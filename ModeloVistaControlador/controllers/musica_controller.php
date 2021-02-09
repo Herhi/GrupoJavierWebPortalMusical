@@ -3,8 +3,12 @@
 //Llamada al modelo -- Intermediario entre vista y modelo !!!
 require_once("models/musica_model.php");
 
+<?php 
+try {
+    
+
 if (!isset($_POST) || empty($_POST)) {
-$tracks=obtenerTracks();
+	$tracks=obtenerTracks();
 
 //Llamada a la vista -- Intermediario entre vista y modelo !!!
 require_once("views/musica_view.phtml");
@@ -18,11 +22,9 @@ require_once("views/musica_view.phtml");
     //$orderNumber = altaPedido($conn);
     //insertarOrderDetails($conn,$orderNumber, $cantidad);
 
-
   }
-}
-
-catch(PDOException $e) {  
+	
+}catch(PDOException $e) {  
   	echo $stmt . "<br>" . $e->getMessage();
 }
 
