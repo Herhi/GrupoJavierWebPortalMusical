@@ -19,11 +19,11 @@
   	</tr>
   	<tr>
     		<td>2-Compra/Cesta</td>
-	  	<td>No asignado</td>
+	  	<td color='orange'>EN PROCESO</td>
   	</tr>
   	<tr>
     		<td>3-Pasarela de Pago</td>
-	  	<td>No asignado</td>
+	  	<td color='orange'>EN PROCESO</td>
 	</tr>
 	<tr>
 		<td>4-Historico de Facturas</td>
