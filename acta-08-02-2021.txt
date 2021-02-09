@@ -1,0 +1,9 @@
+Acta 08/02/2021:
+
+- Se procede a realizar el apartado 03-downmusic.
+- Todavia no se ha establecido el diseño segun el modelo vista controlador.
+
+- Se han realizado varias funciones, para dar de alta los datos en las tablas Invoice & InvoiceLine.
+- Funcion altapedido(): Falta obtener el CustomerId, ya que hay que realizar el login mediante cookies,y lo tenemos que obtener mediante una cookie. Una vez conseguido el CustomerId, esa función estará completa.
+
+- Funcion insertarInvoiceLine(): Es necesario completar el carrito de la compra, ya que no hay un input en el html, que determine la cantidad de la misma cancion a comprar. Si no que la puedes añadir cuantas veces quieras a la compra.
