@@ -15,7 +15,7 @@
   	</tr>
 	<tr>
 		<td>1-Pantalla de login</td>
-		<td>No asignado</td>
+		<td>EN PROCESO</td>
   	</tr>
   	<tr>
     		<td>2-Compra/Cesta</td>
