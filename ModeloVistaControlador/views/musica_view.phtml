@@ -14,13 +14,6 @@
 <body>
 
 
-<?php 
- try {
-    
-        if (!isset($_POST) || empty($_POST)) {
-
-            
-?>
  <h1 class="text-center"> REALIZAR PEDIDO </h1>
             <form id="product-form" name="formulario" action="03-downmusic.php" method="post" class="card-body">
                 <div>Cancion:
@@ -41,31 +34,6 @@
                 </div>
             </form>    
         <br>
-<?php
-        }else{ 
-
-                $track    = ($_POST['track']);
-                $track    = getTrackId($track);
-                $cantidad = ($_POST['cantidad']);
-                //$orderNumber = altaPedido($conn);
-                //insertarOrderDetails($conn,$orderNumber, $cantidad);
-
-
-            }
-    
-
-    }catch(PDOException $e)
-        {  
-            echo $stmt . "<br>" . $e->getMessage();
-        }
-
-    $conexion = null;
-    
-?>
-
-
-
-
 
 
 </body>
