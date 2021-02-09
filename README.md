@@ -19,7 +19,7 @@
   	</tr>
   	<tr>
     		<td>2-Compra/Cesta</td>
-	  	<td style='color=orange'>EN PROCESO</td>
+	  	<td style="color=orange">EN PROCESO</td>
   	</tr>
   	<tr>
     		<td>3-Pasarela de Pago</td>
