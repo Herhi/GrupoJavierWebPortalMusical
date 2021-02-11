@@ -15,7 +15,7 @@
   	</tr>
 	<tr>
 		<td>1-Pantalla de login</td>
-		<td>EN PROCESO</td>
+		<td>REALIZADO</td>
   	</tr>
   	<tr>
     		<td>2-Compra/Cesta</td>
