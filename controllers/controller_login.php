@@ -19,7 +19,9 @@ if (isset($_POST) && !empty($_POST) && isset($_POST["user"]) && isset($_POST["pa
 }
 
 
-require_once("../views/login.php"); // Se llama a la Vista
+// Se llama a la Vista, pasándole el valor de '$iniciadoSesión' manualmente, por GET
+header("Location: ../views/login.php?didWork=". ($iniciadoSesion ? "1" : "0") );
+// ($iniciadoSesion ? "1" : "0") es necesario para pasar el tipo de dato boolean. Si no se pone, didWork sería '1' si $iniciadoSesión es TRUE, pero sería '' (vacío), si es FALSE
 
 
 ?>
