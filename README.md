@@ -15,7 +15,7 @@
   	</tr>
 	<tr>
 		<td>1-Pantalla de login</td>
-		<td>EN PROCESO</td>
+		<td>TERMINADO</td>
   	</tr>
   	<tr>
     		<td>2-Compra/Cesta</td>
@@ -27,11 +27,11 @@
 	</tr>
 	<tr>
 		<td>4-Historico de Facturas</td>
-		<td>No asignado</td>
+		<td>TERMINADO</td>
 	</tr>
 	<tr>
 		<td>5-Consulta de facturas entre fechas</td>
-		<td>No asignado</td>
+		<td>TERMINADO</td>
 	</tr>
 	<tr>
 		<td>6-Ranking de descargas</td>
