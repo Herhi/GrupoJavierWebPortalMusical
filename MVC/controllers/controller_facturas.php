@@ -17,7 +17,6 @@ if(isset($_POST) && !empty($_POST)){
 	$facturas=obtenerFacturasFecha($customerId, $fecha_ini, $fecha_fin);
 
 	verFacturas($facturas);
-	//require_once("../views/facturas.php");
 }
 
 ?>
