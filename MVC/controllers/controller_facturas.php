@@ -2,7 +2,7 @@
 
 #Raquel Alcázar
 
-require_once("../views/facturas.php");
+require_once("../views/facturas.html");
 
 if(isset($_POST) && !empty($_POST)){
 
