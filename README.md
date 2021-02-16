@@ -7,6 +7,8 @@
 </ul>
 
 
+Notas: Falta acoplar la pasarela de pago al 3, para recoger los datos de la compra en la funcion altaPedido().
+
 <h3>Tareas del proyecto</h3>
 <table>
 	<tr>
