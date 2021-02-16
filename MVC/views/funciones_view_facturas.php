@@ -15,7 +15,7 @@
 function verFacturas($facturas){
 
     if(count($facturas)!=null){
-    	echo "<br><table border='1'>
+    	echo "<br><table border='1' style='text-align: center'>
     			<tr>
                     <th>InvoiceId</th>
                     <th>CustomerId</th>
