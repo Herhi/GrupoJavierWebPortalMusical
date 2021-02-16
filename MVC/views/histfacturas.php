@@ -7,7 +7,7 @@
     </head>
     <body>
 	   <h1>Facturas</h1>
-          <table border="1">
+          <table border="1" style="text-align: center">
             <tr>
                 <th>InvoiceId</th>
                 <th>CustomerId</th>
