@@ -7,7 +7,7 @@
     </head>
     <body>
 	   <h1>Ranking</h1>
-          <table border="1">
+          <table border="1" style="text-align: center">
             <tr>
                 <th>Downloads</th>
                 <th>TrackId</th>
